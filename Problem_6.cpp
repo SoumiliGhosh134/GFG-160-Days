@@ -7,7 +7,7 @@ class Solution {
   public:
     // Function to find the majority elements in the array
     vector<int> findMajority(vector<int>& arr) {
-        // Your code goes here.
+     
         int n = arr.size();
         if (n == 0) return {};
         
