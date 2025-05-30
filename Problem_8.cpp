@@ -6,7 +6,7 @@
 class Solution {
   public:
     int maximumProfit(vector<int> &prices) {
-        // code here
+     
         if (prices.size() < 2) return 0;
         
         int min_price_so_far = prices[0];
