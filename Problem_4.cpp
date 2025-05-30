@@ -16,7 +16,7 @@ class Solution {
 
     // Function to rotate an array by d elements in counter-clockwise direction.
     void rotateArr(vector<int>& arr, int d) {
-        // code here
+       
         int n = arr.size();
         if (n == 0) return;
         
