@@ -6,7 +6,7 @@
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {
-        // code here
+     
         int first = -1;
         int second = -2;
         
