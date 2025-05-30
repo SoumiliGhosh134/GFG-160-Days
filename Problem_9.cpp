@@ -6,7 +6,7 @@
 class Solution {
   public:
     int getMinDiff(vector<int> &arr, int k) {
-        // code here
+        
         int n = arr.size();
         if (n == 1)
            return 0;
