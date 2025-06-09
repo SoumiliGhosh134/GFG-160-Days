@@ -1,3 +1,9 @@
+/*
+ * Name: Soumili Ghosh
+ * Github: SoumiliGhosh134
+ * Linkedln: https://www.linkedin.com/in/soumili-ghosh-504a75313/
+ */
+
 class Solution {
   public:
     vector<int> search(string pat, string txt) {
